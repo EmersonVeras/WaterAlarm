@@ -1,2 +1,2 @@
 # WaterAlarm
-Código que lembra ao usuário o momento para beber água.
+Código que lembra ao usuário o momento beber água.
